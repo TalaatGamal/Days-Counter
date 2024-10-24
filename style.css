@@ -97,4 +97,7 @@ body{
         .container2{
             display: none;
         }
+        .container img{
+            left: 10vw;
+        }
 }
